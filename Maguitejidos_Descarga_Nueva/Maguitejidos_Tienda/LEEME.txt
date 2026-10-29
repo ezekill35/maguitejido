@@ -1,0 +1,38 @@
+MAGUITEJIDOS — TIENDA WEB
+=========================
+
+ARCHIVOS
+- index.html: contenido y catálogo.
+- styles.css: colores, diseño adaptable y estilos.
+- script.js: filtros, favoritos y mensajes de WhatsApp.
+- assets/: logo y fotografías proporcionadas para el catálogo.
+
+VISTA PREVIA
+Abre index.html en un navegador moderno. No necesita instalar programas.
+
+WHATSAPP CONFIGURADO
+El número indicado para la tienda ya está añadido: 924 001 391 (Perú, código internacional 51).
+Los botones de pedidos abren WhatsApp con el producto y precio seleccionados.
+Antes de publicar, prueba los botones desde el navegador y verifica que la cuenta de WhatsApp sea la correcta.
+Si necesitas cambiar el número en el futuro, edita WHATSAPP_NUMBER y WHATSAPP_DISPLAY al inicio de script.js.
+
+CONFIGURAR YAPE
+En index.html, dentro de la sección #contacto, actualiza el texto que dice que el número
+asociado a Yape y el titular están pendientes. No publiques estos datos hasta verificarlos.
+
+EDITAR PRECIOS Y PRODUCTOS
+Los nombres, precios de ejemplo, descripciones y categorías están en index.html. Busca
+la tarjeta del producto y actualiza el título, precio visible y atributos data-product/data-price
+del botón para que el mensaje de WhatsApp coincida.
+
+IMÁGENES
+Las fotos están en assets/. La imagen compartida de la osita y los tulipanes se utiliza en
+dos tarjetas porque aparecen juntas en la fotografía original.
+
+PUBLICACIÓN
+Para publicarla en internet, sube la carpeta completa manteniendo index.html, styles.css,
+script.js y assets/ juntos a tu proveedor de alojamiento. Antes de hacerla pública, revisa
+los precios reales, el número de WhatsApp, los datos de Yape y la información de privacidad.
+
+NOTA
+Los precios incluidos son ilustrativos y no constituyen cotizaciones definitivas.
